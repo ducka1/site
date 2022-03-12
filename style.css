@@ -150,3 +150,12 @@ a {
     border-radius: 8px;
     border-style: solid;
 }
+
+.footer {
+    background-color: #1F2937;
+    padding: 32px;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
